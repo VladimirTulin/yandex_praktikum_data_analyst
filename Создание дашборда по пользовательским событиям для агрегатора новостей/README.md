@@ -11,4 +11,4 @@
  - продуктовые метрики
  - построение дашбордов
  
-[ссылка на дашборд](https://public.tableau.com/profile/vladimir7867#!/vizhome/__16031800877550/sheet1)
+[ссылка на дашборд](https://public.tableau.com/profile/vladimir7867#!/vizhome/__16031800877550/Dashboard1)
